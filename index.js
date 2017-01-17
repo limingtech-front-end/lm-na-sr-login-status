@@ -1,5 +1,5 @@
-import bridge from 'lm-na-bridge'
-export default function(){
+var bridge =require('lm-na-bridge')
+module.exports=function(){
 	return new Promise((resolve,reject)=>{
 		bridge().then((bridge)=>{
 			bridge.callHandler('data_loginStatus', {}, function(response) {
