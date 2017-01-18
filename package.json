@@ -1,22 +1,82 @@
 {
-  "name": "lm-na-sr-login-status",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_args": [
+    [
+      {
+        "raw": "lm-na-sr-login-status@git+https://github.com/limingtech-front-end/lm-na-sr-login-status.git",
+        "scope": null,
+        "escapedName": "lm-na-sr-login-status",
+        "name": "lm-na-sr-login-status",
+        "rawSpec": "git+https://github.com/limingtech-front-end/lm-na-sr-login-status.git",
+        "spec": "git+https://github.com/limingtech-front-end/lm-na-sr-login-status.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:limingtech-front-end/lm-na-sr-login-status.git",
+          "sshUrl": "git+ssh://git@github.com/limingtech-front-end/lm-na-sr-login-status.git",
+          "httpsUrl": "git+https://github.com/limingtech-front-end/lm-na-sr-login-status.git",
+          "gitUrl": "git://github.com/limingtech-front-end/lm-na-sr-login-status.git",
+          "shortcut": "github:limingtech-front-end/lm-na-sr-login-status",
+          "directUrl": "https://raw.githubusercontent.com/limingtech-front-end/lm-na-sr-login-status/master/package.json"
+        }
+      },
+      "D:\\Tests\\nativehybrid\\mail-icar"
+    ]
+  ],
+  "_from": "git+https://github.com/limingtech-front-end/lm-na-sr-login-status.git",
+  "_id": "lm-na-sr-login-status@1.0.0",
+  "_inCache": true,
+  "_location": "/lm-na-sr-login-status",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "lm-na-sr-login-status@git+https://github.com/limingtech-front-end/lm-na-sr-login-status.git",
+    "scope": null,
+    "escapedName": "lm-na-sr-login-status",
+    "name": "lm-na-sr-login-status",
+    "rawSpec": "git+https://github.com/limingtech-front-end/lm-na-sr-login-status.git",
+    "spec": "git+https://github.com/limingtech-front-end/lm-na-sr-login-status.git",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:limingtech-front-end/lm-na-sr-login-status.git",
+      "sshUrl": "git+ssh://git@github.com/limingtech-front-end/lm-na-sr-login-status.git",
+      "httpsUrl": "git+https://github.com/limingtech-front-end/lm-na-sr-login-status.git",
+      "gitUrl": "git://github.com/limingtech-front-end/lm-na-sr-login-status.git",
+      "shortcut": "github:limingtech-front-end/lm-na-sr-login-status",
+      "directUrl": "https://raw.githubusercontent.com/limingtech-front-end/lm-na-sr-login-status/master/package.json"
+    }
   },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/limingtech-front-end/lm-na-sr-login-status.git#5028a5ef756ffa648bc9e949cbec51d5fc1fde62",
+  "_shasum": "92b6c65997ceac1bcc04bcb3ac75504947cd874c",
+  "_shrinkwrap": null,
+  "_spec": "lm-na-sr-login-status@git+https://github.com/limingtech-front-end/lm-na-sr-login-status.git",
+  "_where": "D:\\Tests\\nativehybrid\\mail-icar",
+  "author": {
+    "name": "littlstonee",
+    "email": "littlstonee@hotmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/limingtech-front-end/lm-na-sr-login-status/issues"
+  },
+  "dependencies": {
+    "lm-na-bridge": "git+https://github.com/limingtech-front-end/lm-na-bridge.git"
+  },
+  "devDependencies": {},
+  "gitHead": "5028a5ef756ffa648bc9e949cbec51d5fc1fde62",
+  "homepage": "https://github.com/limingtech-front-end/lm-na-sr-login-status#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "lm-na-sr-login-status",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/limingtech-front-end/lm-na-sr-login-status.git"
   },
-  "author": "littlstonee <littlstonee@hotmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/limingtech-front-end/lm-na-sr-login-status/issues"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/limingtech-front-end/lm-na-sr-login-status#readme",
-  "dependencies": {
-    "lm-na-bridge": "git+https://github.com/limingtech-front-end/lm-na-bridge.git"
-  }
+  "version": "1.0.0"
 }
